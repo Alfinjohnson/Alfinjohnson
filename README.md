@@ -12,7 +12,7 @@
 - Health Monitoring: Grafana, Prometheus, Datadog, Spring actuator, Checkmk, Rancher 
 - Design: Figma, Adobe XD, Photoshop & Illustrator 
 - Development: Kafka & Zookeeper, Key Cloak, Vault, Consul Hibernate, Electron Js, R Studio Apache NiFi, Godot Engine, Git 
-- Roles handled & Others: MlOps, Prompt Engineering, Full Stack & DevOps Engineer, ETL Developer, Product Architect, Java Software Developer, Automation Engineering, R&D, ETL Automation, Shell Scripting, MERN, Database administrator, Back-End engineer  
+- Roles handled & Others: MLOps, Prompt Engineering, Full Stack & DevOps Engineer, ETL Developer, Product Engineer, Java Software Development Engineer, Automation Engineering, R&D, ETL Automation, Shell Scripting, MERN, Database administrator, Back-End Engineer
 - Agile and Scrum Methodologies 
 
 ## Education:
