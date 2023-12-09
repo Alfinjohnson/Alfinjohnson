@@ -11,7 +11,7 @@
 - Server: Tomcat, nginx, HA proxy, wsgi 
 - Health Monitoring: Grafana, Prometheus, Datadog, Spring actuator, Checkmk, Rancher 
 - Design: Figma, Adobe XD, Photoshop & Illustrator 
-- Other Skills: Kafka & Zookeeper, Key Cloak, Vault, Consul Hibernate, Electron Js, R Studio Apache NiFi, Godot Engine, Git, ETL Automation, Shell Scripting, SSO Integration, Third-party service integration etc. 
+- Other Skills: Kafka & Zookeeper,ETL, Key Cloak, Vault, Consul Hibernate, Electron Js, R Studio Apache NiFi, Godot Engine, Git, ETL Automation, Shell Scripting, SSO Integration, Third-party service integration etc. 
 - Agile and Scrum Methodologies
   
 ## Roles handled: 
@@ -32,9 +32,6 @@
 - Implementation Engineer
 - professional services
 - Cloud Administrator
-
-## Education:
-Bachelor's in computer science and engineering, APJ Abdul Kalam Technological University Kerala India, 2016 - 2020
 
 ## Professional Experience: 
 - EY, Bengaluru Karnataka India - Consultant - 2021 to Present 
