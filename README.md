@@ -2,7 +2,7 @@
 - 💞️ I love taking risks, enjoy doing research and development. I'm looking forward to collaborating with like-minded individuals and teams on exciting projects.
 - 📫 How to reach me? Feel free to contact me through my email at alfinjohnson@hotmail.com.
 
-## Technical Skills: 
+## Technologies & Tools: 
 - Programming Languages:  Java, Python, Java Script 
 - Web Development: Micro services, Spring boot, Kafka, Django, Python Flask, React, node.js, Flutter, HTML, CSS 
 - Cloud Computing: AWS, Azure, GCP 
