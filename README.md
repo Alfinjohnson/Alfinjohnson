@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Alfin Johnson, a software engineer with 3+ years of experience, passionate about designing and inventing new things. I specialize in building SaaS applications with industry-leading tech.
+- 👋 Hi, I'm Alfin Johnson, a software engineer with 3.5+ years of experience, passionate about designing and inventing new things. I specialize in building SaaS applications with industry-leading tech.
 - 💞️ I love taking risks, enjoy doing research and development. I'm looking forward to collaborating with like-minded individuals and teams on exciting projects.
 - 📫 How to reach me? Feel free to contact me through my email at alfinjohnson@hotmail.com.
 
 ## Technologies & Tools: 
 - Programming Languages:  Java, Python, Java Script 
-- Web Development: Micro services, Spring boot, Kafka, Django, Python Flask, React, node.js, Flutter, HTML, CSS 
+- Web Development: Micro services, Spring boot, Kafka, Django, Python Flask,Fast API, React, node.js, Flutter, HTML, CSS 
 - Cloud Computing: AWS, Azure, GCP 
 - Database Systems: PostgreSQL, MongoDB, MySQL, Redis, Firebase 
 - DevOps: Docker, Jenkins, Kubernetes, Terraform, CI/CD, Ansible, CentOS, EC2 
