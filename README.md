@@ -1,9 +1,9 @@
-- 👋 Hi, I'm Alfin Johnson, Software engineer with around 5 years of experience in designing and building high scalable SaaS applications across various domains including Gen AI, conversational AI, Data Analytics & Insights, Education Platforms, and HRM Platforms etc.
+- 👋 Hi, I'm Alfin Johnson, Software engineer with around 5 years of experience in designing and building highly scalable SaaS applications across various domains including Gen AI, conversational AI, Data Analytics & Insights, Education Platforms, and HRM Platforms etc.
 - 💞️ I love taking risks, enjoy doing research and development. I'm looking forward to collaborating with like-minded individuals and teams on exciting projects.
 - 📫 How to reach me? Feel free to contact me through my email at alfinjohnson@hotmail.com.
 
 ## Technologies & Tools: 
-- Programming Languages:  Java, Python, Java Script
+- Programming Languages:  Java, Python, JavaScript
 - LLM Ops: Mutimodel, Azure OpenAI, Fine tuning, RAG, AI Agents, Realtime streaming, STT and TTS
 - Web Development: Micro services, Spring boot, Kafka, Django, Python Flask,Fast API, React, node.js, Flutter, HTML, CSS 
 - Cloud Computing: AWS, Azure, GCP 
