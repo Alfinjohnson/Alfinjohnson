@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Alfin Johnson, Software engineer with around 5 years of experience in designing and building highly scalable SaaS applications across various domains including Gen AI, conversational AI, Data Analytics & Insights, Education Platforms, and HRM Platforms etc.
+- 👋 Hi, I'm Alfin Johnson, Gen AI Architect and developer with around 5 years of experience in designing and building highly scalable SaaS applications across various domains including Gen AI, conversational AI, Data Analytics & Insights, Education Platforms, and HRM Platforms etc.
 - 💞️ I love taking risks, enjoy doing research and development. I'm looking forward to collaborating with like-minded individuals and teams on exciting projects.
 - 📫 How to reach me? Feel free to contact me through my email at alfinjohnson@hotmail.com.
 
